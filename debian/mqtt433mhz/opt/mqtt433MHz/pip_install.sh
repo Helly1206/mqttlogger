@@ -16,4 +16,4 @@ if [ "" == "$PKG_OK" ]; then
     sudo -H pip3 install paho-mqtt
 fi
 
-echo "Ready" 
+echo "Ready"
