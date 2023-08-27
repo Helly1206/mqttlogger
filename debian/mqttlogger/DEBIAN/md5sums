@@ -1,0 +1,7 @@
+bd871f7cec4f9a74425ca031a5e5ba86  opt/mqtt433MHz/CHANGELOG.TXT
+fb0a0c5bbebc68ef4803117ec4868cbc  opt/mqtt433MHz/LICENSE.txt
+93b94b746cbe7869273ad133927d253c  opt/mqtt433MHz/mqtt433MHz.py
+34e2305b811b4176ecd1ab6216d6f35b  opt/mqtt433MHz/pip_install.sh
+7c57edd30cdc2e7c29a82a0c5b3b5ac0  usr/share/doc/mqttlogger/changelog.gz
+bf997550540166111959d36716b16e0e  usr/share/doc/mqttlogger/copyright
+909b686f57f3f72cf42bce92595c18ae  usr/share/lintian/overrides/mqttlogger

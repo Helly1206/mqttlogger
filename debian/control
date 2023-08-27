@@ -1,4 +1,4 @@
-Source: mqttlogger
+Source: mqtt433mhz
 Section: net
 Priority: optional
 Maintainer: Helly1206
@@ -6,9 +6,9 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 XB-Plugin-Section: sharing
 
-Package: mqttlogger
+Package: mqtt433mhz
 Architecture: all
 Depends: python3,
          python3-pip,
          ${misc:Depends}
-Description: mqttlogger (logging of MQTT traffic)
+Description: mqtt433MHz (433 MHz to MQTT translator)

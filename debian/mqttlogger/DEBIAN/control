@@ -1,0 +1,11 @@
+Package: mqttlogger
+Source: mqtt433mhz
+Version: 0.80
+Architecture: all
+Maintainer: Helly1206
+Installed-Size: 80
+Depends: python3, python3-pip
+Section: net
+Priority: optional
+Description: mqtt433MHz (433 MHz to MQTT translator)
+Plugin-Section: sharing

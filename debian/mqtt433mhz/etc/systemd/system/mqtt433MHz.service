@@ -1,0 +1,13 @@
+# mqtt433MHz - 433 MHz to MQTT translator
+
+[Unit]
+Description=mqtt433MHz - 433 MHz to MQTT translator
+After=remote-fs.target
+
+[Service]
+Type=simple
+ExecStart=/opt/mqtt433MHz/mqtt433MHz.py
+KillSignal=SIGINT
+
+[Install]
+WantedBy=multi-user.target

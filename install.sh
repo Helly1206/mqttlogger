@@ -1,5 +1,5 @@
 #!/bin/bash
-NAME="mqttlogger"
+NAME="mqtt433MHz"
 INSTALL="/usr/bin/install -c"
 INSTALL_DATA="$INSTALL -m 644"
 INSTALL_PROGRAM="$INSTALL"
